@@ -1,11 +1,11 @@
 '''
 Form Link
 
-https://docs.google.com/forms/d/e/1FAIpQLScEm6OKcAEuso9P955IlaohxmjrcN8dFXTgwRrhU20GXiTlZw/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSfsVEnlL0MYy5GNq0djCMSG-O4yzC70Bwep7TExhsr-9FjdHg/viewform
 
 POST Link
 
-https://docs.google.com/forms/d/e/1FAIpQLScEm6OKcAEuso9P955IlaohxmjrcN8dFXTgwRrhU20GXiTlZw/formResponse
+https://docs.google.com/forms/d/e/1FAIpQLSfsVEnlL0MYy5GNq0djCMSG-O4yzC70Bwep7TExhsr-9FjdHg/viewform
 
 Logical Conclusion after scanning the source code of the form
 
